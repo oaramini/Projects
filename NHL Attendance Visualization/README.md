@@ -1,1 +1,9 @@
+# NHL Attendance - Curve Fit
 
+Hi and welcome to my cool regression model data visualization tool!
+
+### Purpose:
+
+The purpose of this post is to demonstrate my python programming ability to generate linear and non-linear regression model with confidence bands. The evaluation the quality of the fit to the data with a cool data visulaiztion summary output.
+
+I originally completed this project in one of my co-op internships working for a biotechnology start-up called Ekidan Sensing. Part of my role was to generate a regression model to predict the level of THC concentration in cannabis using data collected from a sensor device. The models considered to predict THC concentration from a sensor output are **linear, parabolic and power model**, these all relate to probably chemical phenomenons occuring between the sensor and THC molecules.  However all of the data and some of the code are proprietary information to Ekidna. Therefore I had to decide on a data source to demonstrate my code. So I chose from an industry I enjoy..... Sports Marketing things!!
