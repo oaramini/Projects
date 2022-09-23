@@ -1,4 +1,4 @@
-# Data Visulaization Tool - Curve Fit
+# Data Visualization Tool - Curve Fit
 
 Hi and welcome to my cool regression model data visualization tool!
 
