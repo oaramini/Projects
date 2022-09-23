@@ -16,5 +16,5 @@ This code will try to fit a linear, parabolic and power modle to every NHL teams
 - 'NHL_attendance_scape.ipynb' : Jupyter Notebook scipt perfroming a quick we scrape from Hockey-Refernce.com to extract the attendnace data from teh 2018-19 season
 - 'NHL_attendance_data.csv' : CSV file with the attendance data
 - 'NHL_regression_script.ipynb': Jupyter Notebook scipt with the main code to generate models and eveluate with visulaization tools
-- 'NHL_attendnace_vis.pdf':  Multi-page pdf output of the all plot for every team and every regression model
+- **'NHL_attendnace_vis.pdf':  Multi-page pdf output of the all plot for every team and every regression model** This is the Data visualization tool
 - 'Curve_Metrics.xlsx' : Excel file storing all the metrics evaluating each regression fit
