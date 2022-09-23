@@ -1,4 +1,4 @@
-# NHL Attendance - Curve Fit
+# Data Visulaization Tool - Curve Fit
 
 Hi and welcome to my cool regression model data visualization tool!
 
